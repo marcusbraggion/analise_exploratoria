@@ -80,7 +80,7 @@ Step 04. Interpretate and Tradution to-business: The analysis performance is con
 We found a business opportunity by locating properties that are priced below the local median. Then I identified that seasonality influences the price, spring season tends to make the property more expensive, then summer season. So I suggested an increase of 0.30% in the purchase price when it is spring and 0.20% when it is summer and 10% in the rest of the properties that do not fit into these scenarios.
 Finally, it was possible to identify business oportunties that resulst in a total profit of R$15.981.245,72.
 
-# 6.0 Next Steps
+# 7.0 Next Steps
 Develop a interactive map with geolocation of each id property by an API.
 
 Develop a machine learning model to predict the correct resale value of properties and identify opportunities that we cannot reach through data analysis.
