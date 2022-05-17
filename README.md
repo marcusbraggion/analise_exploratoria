@@ -3,7 +3,7 @@
 # House Rocket
 
 O objetivo do projeto é recomendar soluções para o negócio através de Insights gerados por uma Análise Exploratória de Dados. O projeto abrange 5 etapas do roteiro de solução de problemas da Ciência de Dados, que são: A Questão do Negócio, Compreensão do Negócio, Limpeza de Dados e Exploração de Dados.
-
+git
 # 1.0 Contexto do Negócio (fictício)
 
 A House Rocket é uma plataforma digital cujo modelo de negócio é a compra e venda de imóveis utilizando tecnologia.
@@ -83,6 +83,6 @@ Por fim, foi possível identificar oportunidades de negócios que resultaram em 
 
 # 7.0 Próximos passos
 
-Desenvolva um mapa interativo com geolocalização de cada propriedade de id por uma API.
+Desenvolver um mapa interativo com geolocalização de cada propriedade de id por uma API.
 
-Desenvolva um modelo de aprendizado de máquina para prever o valor de revenda correto das propriedades e identificar oportunidades que não podemos alcançar por meio da análise de dados.
+Desenvolver um modelo de aprendizado de máquina para prever o valor de revenda correto das propriedades e identificar oportunidades que não podemos alcançar por meio da análise de dados.
